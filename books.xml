@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+    <Book ID="1" Name="Book 1">
+        <Chapter ID="1" Name="Chapter 1"/>
+        <Chapter ID="2" Name="Chapter 2"/>
+        <Chapter ID="3" Name="Chapter 3"/>
+    </Book>
+    <Book ID="2" Name="Book 2">
+        <Chapter ID="1" Name="Chapter 1"/>
+        <Chapter ID="2" Name="Chapter 2"/>
+        <Chapter ID="3" Name="Chapter 3"/>
+    </Book>
+</Books>
